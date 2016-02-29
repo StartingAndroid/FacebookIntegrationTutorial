@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookIntegrationTutorial</string>
+    <string name="facebook_app_id">your application id</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
